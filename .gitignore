@@ -1,0 +1,7 @@
+﻿config/workspace_config.json
+temp/
+scrap_pad/
+*.rtf
+*.log
+__pycache__/
+.env

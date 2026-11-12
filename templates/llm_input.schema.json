@@ -1,0 +1,12 @@
+﻿{
+    "constraints":  {
+                        "tone":  "technical, concise, recruiter-ready",
+                        "max_characters":  350
+                    },
+    "context":  {
+                    "readme_content":  "# Example README",
+                    "primary_language":  "Python",
+                    "repo_name":  "example-repo"
+                },
+    "task":  "generate_repo_description"
+}

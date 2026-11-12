@@ -1,0 +1,25 @@
+01_Automation_Scripts/
+├── config/
+│   ├── workspace_config.json
+│   └── workspace_config.sample.json
+├── github_audit/
+│   ├── 1_fetch_repos.ps1
+│   ├── 2_sync_licenses.ps1
+│   └── 3_orchestrate_metadata.ps1
+├── pipeline/
+│   ├── step_1_generate_project.ps1
+│   ├── step_2_inject_sandbox.ps1
+│   ├── step_3_integrate_workspace.ps1
+│   ├── step_4_preflight_audit.ps1
+│   ├── step_5_push_project.ps1
+│   └── step_6_publish_github_release.py
+├── templates/
+│   ├── llm_input.schema.json
+│   └── llm_output.schema.json
+├── utils/
+│   └── llm_service.py
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.psd1
+└── requirements.txt

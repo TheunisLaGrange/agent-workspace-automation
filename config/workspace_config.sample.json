@@ -1,0 +1,20 @@
+﻿{
+    "github":  {
+                   "username":  "TheunisLaGrange",
+                   "copyright_holder":  "Theunis La Grange",
+                   "token":  "YOUR_GITHUB_PAT_HERE"
+               },
+    "paths":  {
+                  "python_exe":  "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+                  "template_dir":  "C:\\PC Programming\\Python\\src\\AI\\Agent\\02_Python_Source\\project_template",
+                  "temp_dir":  "temp"
+              },
+    "active_project":  {
+                           "project_name":  "MyProject",
+                           "project_root":  "C:\\PC Programming\\Python\\src\\AI\\Agent\\02_Python_Source\\MyProject"
+                       },
+    "llm_settings":  {
+                         "model":  "gemini-3.6-flash",
+                         "max_description_chars":  350
+                     }
+}
